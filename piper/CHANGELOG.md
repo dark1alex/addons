@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.4
+
+ - Bump piper and piper-libs to to 1.1.0
+ - Add 2 polish voices
+    - `pl-darkman-medium`
+    - `pl-gosia-medium`
+
 ## 0.1.3
 
 - Fix multi-line input

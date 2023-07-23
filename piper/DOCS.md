@@ -87,6 +87,8 @@ The following voices are available:
     - `no-talesyntese-medium`
 - Polish
     - `pl-mls_6892-low`
+    - `pl-darkman-medium`
+    - `pl-gosia-medium`
 - Brazilian Portuguese
     - `pt-br-edresson-low`
 - Russian
